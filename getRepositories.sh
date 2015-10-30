@@ -1,0 +1,1 @@
+curl -u ${1}  https://api.bitbucket.org/1.0/users/${2} > repoinfo.json
